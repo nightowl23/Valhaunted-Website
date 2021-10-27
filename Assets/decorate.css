@@ -14,6 +14,7 @@ body {
     width: 300px;
     height: 300px;
     margin: 0px;
+    padding: 0px;
 }
 img {
     background-repeat: no-repeat;
@@ -34,7 +35,7 @@ img {
 header {
     background-color: black;
     padding: 5px;
-        width: 1500px;  
+        width: 1390px;  
     color: white;
 }
 nav {
